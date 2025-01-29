@@ -1,0 +1,10 @@
+20:22:06.313 [main] DEBUG org.testng.TestNG - suiteXmlPath: "D:\Lakshmy-SeleniumWorkSpace\MyOpenCart\master.xml"
+20:22:12.692 [main] INFO  testCases.TC001_AccountRegistrationTest - Running in Chrome Browser...
+20:22:14.905 [main] INFO  testCases.TC001_AccountRegistrationTest - Executing url null
+20:22:14.906 [main] INFO  testCases.TC001_AccountRegistrationTest - Chrome Reading properties from config.properties
+20:22:14.932 [main] INFO  testCases.TC001_AccountRegistrationTest - Chrome ***Starting TC001_AccountRegistrationTest***
+20:22:15.875 [main] INFO  testCases.TC001_AccountRegistrationTest - Chrome Clicked registration page..
+20:22:15.879 [main] INFO  testCases.TC001_AccountRegistrationTest - Chrome Providing customer details for registration..
+20:22:18.472 [main] INFO  testCases.TC001_AccountRegistrationTest - Chrome Asserting confirmation message..
+20:22:18.472 [main] INFO  testCases.TC001_AccountRegistrationTest - Chrome Test Passed
+20:22:18.472 [main] INFO  testCases.TC001_AccountRegistrationTest - Chrome ***Finished TC001_AccountRegistrationTest***
