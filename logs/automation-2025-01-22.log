@@ -1,0 +1,56 @@
+00:40:40.488 [main] INFO  testCases.TC001_AccountRegistrationTest - null Test Passed
+00:40:40.512 [main] INFO  testCases.TC001_AccountRegistrationTest - null ***Finished TC001_AccountRegistrationTest***
+18:23:24.985 [main] DEBUG org.testng.TestNG - suiteXmlPath: "D:\Lakshmy-SeleniumWorkSpace\MyOpenCart\master.xml"
+18:23:25.569 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\Lakshmy-SeleniumWorkSpace\MyOpenCart\master.xml
+
+18:23:32.779 [main] INFO  testCases.TC001_AccountRegistrationTest - Running in Chrome Browser...
+18:23:41.467 [main] INFO  testCases.TC002_LoginTest - Running in Chrome Browser...
+18:24:32.278 [main] DEBUG org.testng.TestNG - suiteXmlPath: "D:\Lakshmy-SeleniumWorkSpace\MyOpenCart\master.xml"
+18:24:33.014 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\Lakshmy-SeleniumWorkSpace\MyOpenCart\master.xml
+
+18:24:36.614 [main] INFO  testCases.TC001_AccountRegistrationTest - Running in Chrome Browser...
+18:24:45.594 [main] INFO  testCases.TC001_AccountRegistrationTest - Executing url http://localhost/opencart/upload/
+18:24:45.595 [main] INFO  testCases.TC001_AccountRegistrationTest - Chrome Reading properties from config.properties
+18:24:45.923 [main] INFO  testCases.TC001_AccountRegistrationTest - Chrome ***Starting TC001_AccountRegistrationTest***
+18:24:49.651 [main] INFO  testCases.TC001_AccountRegistrationTest - Chrome Clicked registration page..
+18:24:49.654 [main] INFO  testCases.TC001_AccountRegistrationTest - Chrome Providing customer details for registration..
+18:24:57.080 [main] INFO  testCases.TC001_AccountRegistrationTest - Chrome Asserting confirmation message..
+18:24:57.081 [main] INFO  testCases.TC001_AccountRegistrationTest - Chrome Test Passed
+18:24:57.082 [main] INFO  testCases.TC001_AccountRegistrationTest - Chrome ***Finished TC001_AccountRegistrationTest***
+18:24:59.543 [main] INFO  testCases.TC002_LoginTest - Running in Chrome Browser...
+18:25:01.256 [main] INFO  testCases.TC002_LoginTest - Executing url http://localhost/opencart/upload/
+18:25:01.256 [main] INFO  testCases.TC002_LoginTest - Chrome Reading properties from config.properties
+18:25:01.815 [main] INFO  testCases.TC002_LoginTest - Chrome ***Starting TC002_LoginTest***
+18:25:05.520 [main] INFO  testCases.TC002_LoginTest - Chrome Clicked for login page..
+18:25:07.192 [main] INFO  testCases.TC002_LoginTest - Chrome Clicked login button
+18:25:07.334 [main] INFO  testCases.TC002_LoginTest - Chrome Test Passed
+18:25:07.334 [main] INFO  testCases.TC002_LoginTest - Chrome ***Finished TC001_AccountRegistrationTest***
+18:36:59.337 [main] DEBUG org.testng.TestNG - suiteXmlPath: "D:\Lakshmy-SeleniumWorkSpace\MyOpenCart\master.xml"
+18:36:59.971 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\Lakshmy-SeleniumWorkSpace\MyOpenCart\master.xml
+
+18:37:07.320 [main] INFO  testCases.TC001_AccountRegistrationTest - Executing url http://localhost/opencart/upload/
+18:37:07.321 [main] INFO  testCases.TC001_AccountRegistrationTest - null Reading properties from config.properties
+18:37:08.376 [main] INFO  testCases.TC001_AccountRegistrationTest - null ***Starting TC001_AccountRegistrationTest***
+18:37:11.639 [main] INFO  testCases.TC001_AccountRegistrationTest - null Clicked registration page..
+18:37:11.652 [main] INFO  testCases.TC001_AccountRegistrationTest - null Providing customer details for registration..
+18:37:17.056 [main] INFO  testCases.TC001_AccountRegistrationTest - null Asserting confirmation message..
+18:37:17.056 [main] INFO  testCases.TC001_AccountRegistrationTest - null Test Passed
+18:37:17.056 [main] INFO  testCases.TC001_AccountRegistrationTest - null ***Finished TC001_AccountRegistrationTest***
+18:37:20.684 [main] INFO  testCases.TC002_LoginTest - Executing url http://localhost/opencart/upload/
+18:37:20.685 [main] INFO  testCases.TC002_LoginTest - null Reading properties from config.properties
+18:37:21.384 [main] INFO  testCases.TC002_LoginTest - null ***Starting TC002_LoginTest***
+18:37:23.572 [main] INFO  testCases.TC002_LoginTest - null Clicked for login page..
+18:37:25.667 [main] INFO  testCases.TC002_LoginTest - null Clicked login button
+18:37:25.780 [main] INFO  testCases.TC002_LoginTest - null Test Passed
+18:37:25.780 [main] INFO  testCases.TC002_LoginTest - null ***Finished TC001_AccountRegistrationTest***
+19:54:00.349 [main] DEBUG org.testng.TestNG - suiteXmlPath: "D:\Lakshmy-SeleniumWorkSpace\MyOpenCart\crossBrowserTesting.xml"
+19:54:03.270 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\Lakshmy-SeleniumWorkSpace\MyOpenCart\crossBrowserTesting.xml
+
+19:54:34.077 [main] INFO  testCases.TC001_AccountRegistrationTest - Executing url http://localhost/opencart/upload/
+19:54:34.077 [main] INFO  testCases.TC001_AccountRegistrationTest - null Reading properties from config.properties
+19:54:37.704 [main] INFO  testCases.TC001_AccountRegistrationTest - null ***Starting TC001_AccountRegistrationTest***
+19:54:46.418 [main] INFO  testCases.TC001_AccountRegistrationTest - null Clicked registration page..

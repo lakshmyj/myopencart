@@ -1,0 +1,61 @@
+14:50:35.794 [main] DEBUG org.testng.TestNG - suiteXmlPath: "D:\Lakshmy-SeleniumWorkSpace\MyOpenCart\master.xml"
+14:50:36.102 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\Lakshmy-SeleniumWorkSpace\MyOpenCart\master.xml
+
+14:50:38.557 [main] INFO  testCases.TC001_AccountRegistrationTest - Running in Chrome Browser...
+14:50:44.986 [main] INFO  testCases.TC001_AccountRegistrationTest - Executing url http://localhost/opencart/upload/
+14:50:44.987 [main] INFO  testCases.TC001_AccountRegistrationTest - Chrome Reading properties from config.properties
+14:50:45.092 [main] INFO  testCases.TC001_AccountRegistrationTest - Chrome ***Starting TC001_AccountRegistrationTest***
+14:50:46.682 [main] INFO  testCases.TC001_AccountRegistrationTest - Chrome Clicked registration page..
+14:50:46.687 [main] INFO  testCases.TC001_AccountRegistrationTest - Chrome Providing customer details for registration..
+14:50:53.173 [main] INFO  testCases.TC001_AccountRegistrationTest - Chrome Asserting confirmation message..
+14:50:53.173 [main] INFO  testCases.TC001_AccountRegistrationTest - Chrome Test Passed
+14:50:53.175 [main] INFO  testCases.TC001_AccountRegistrationTest - Chrome ***Finished TC001_AccountRegistrationTest***
+14:50:55.951 [main] INFO  testCases.TC002_LoginTest - Running in Chrome Browser...
+14:50:57.209 [main] INFO  testCases.TC002_LoginTest - Executing url http://localhost/opencart/upload/
+14:50:57.209 [main] INFO  testCases.TC002_LoginTest - Chrome Reading properties from config.properties
+14:50:57.396 [main] INFO  testCases.TC002_LoginTest - Chrome ***Starting TC002_LoginTest***
+14:50:59.600 [main] INFO  testCases.TC002_LoginTest - Chrome Clicked for login page..
+14:51:01.579 [main] INFO  testCases.TC002_LoginTest - Chrome Clicked login button
+14:51:01.651 [main] INFO  testCases.TC002_LoginTest - Chrome Test Passed
+14:51:01.652 [main] INFO  testCases.TC002_LoginTest - Chrome ***Finished TC001_AccountRegistrationTest***
+14:51:22.888 [main] DEBUG org.testng.TestNG - suiteXmlPath: "D:\Lakshmy-SeleniumWorkSpace\MyOpenCart\grid-docker.xml"
+14:51:23.196 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\Lakshmy-SeleniumWorkSpace\MyOpenCart\grid-docker.xml
+
+14:57:31.240 [main] DEBUG org.testng.TestNG - suiteXmlPath: "D:\Lakshmy-SeleniumWorkSpace\MyOpenCart\grid-docker.xml"
+14:57:31.579 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\Lakshmy-SeleniumWorkSpace\MyOpenCart\grid-docker.xml
+
+14:59:20.095 [main] DEBUG org.testng.TestNG - suiteXmlPath: "D:\Lakshmy-SeleniumWorkSpace\MyOpenCart\grid-docker.xml"
+14:59:20.625 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\Lakshmy-SeleniumWorkSpace\MyOpenCart\grid-docker.xml
+
+15:03:52.534 [main] DEBUG org.testng.TestNG - suiteXmlPath: "D:\Lakshmy-SeleniumWorkSpace\MyOpenCart\grid-docker.xml"
+15:03:53.372 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\Lakshmy-SeleniumWorkSpace\MyOpenCart\grid-docker.xml
+
+15:22:52.569 [main] DEBUG org.testng.TestNG - suiteXmlPath: "D:\Lakshmy-SeleniumWorkSpace\MyOpenCart\grid-docker.xml"
+15:22:53.994 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\Lakshmy-SeleniumWorkSpace\MyOpenCart\grid-docker.xml
+
+15:25:50.932 [main] DEBUG org.testng.TestNG - suiteXmlPath: "D:\Lakshmy-SeleniumWorkSpace\MyOpenCart\grid-docker.xml"
+15:25:52.945 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\Lakshmy-SeleniumWorkSpace\MyOpenCart\grid-docker.xml
+
+22:59:53.809 [main] DEBUG org.testng.TestNG - suiteXmlPath: "D:\Lakshmy-SeleniumWorkSpace\MyOpenCart\master.xml"
+22:59:54.391 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\Lakshmy-SeleniumWorkSpace\MyOpenCart\master.xml
+
+23:00:00.385 [main] INFO  testCases.TC001_AccountRegistrationTest - Running in Chrome Browser...
+23:00:11.288 [main] INFO  testCases.TC001_AccountRegistrationTest - Executing url http://localhost/opencart/upload/
+23:00:11.288 [main] INFO  testCases.TC001_AccountRegistrationTest - Chrome Reading properties from config.properties
+23:00:11.821 [main] INFO  testCases.TC001_AccountRegistrationTest - Chrome ***Starting TC001_AccountRegistrationTest***
+23:00:16.320 [main] INFO  testCases.TC001_AccountRegistrationTest - Chrome Clicked registration page..
+23:00:16.325 [main] INFO  testCases.TC001_AccountRegistrationTest - Chrome Providing customer details for registration..
+23:00:24.491 [main] INFO  testCases.TC001_AccountRegistrationTest - Chrome Asserting confirmation message..
+23:00:24.492 [main] INFO  testCases.TC001_AccountRegistrationTest - Chrome Test Passed
+23:00:24.492 [main] INFO  testCases.TC001_AccountRegistrationTest - Chrome ***Finished TC001_AccountRegistrationTest***
+23:00:27.786 [main] INFO  testCases.TC002_LoginTest - Running in Chrome Browser...
+23:00:28.996 [main] INFO  testCases.TC002_LoginTest - Executing url http://localhost/opencart/upload/
+23:00:28.996 [main] INFO  testCases.TC002_LoginTest - Chrome Reading properties from config.properties

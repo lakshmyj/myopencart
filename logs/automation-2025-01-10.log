@@ -1,0 +1,47 @@
+00:51:27.533 [main] DEBUG org.testng.TestNG - suiteXmlPath: "D:\Lakshmy-SeleniumWorkSpace\MyOpenCart\grouping.xml"
+00:51:28.606 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\Lakshmy-SeleniumWorkSpace\MyOpenCart\grouping.xml
+
+00:51:36.540 [main] INFO  testCases.TC001_AccountRegistrationTest - Running in Chrome Browser...
+00:51:39.220 [main] INFO  testCases.TC001_AccountRegistrationTest - Executing url http://localhost/opencart/upload/
+00:51:39.220 [main] INFO  testCases.TC001_AccountRegistrationTest - Chrome Reading properties from config.properties
+00:51:39.619 [main] INFO  testCases.TC001_AccountRegistrationTest - Chrome ***Starting TC001_AccountRegistrationTest***
+00:51:44.771 [main] INFO  testCases.TC001_AccountRegistrationTest - Chrome Clicked registration page..
+00:51:44.777 [main] INFO  testCases.TC001_AccountRegistrationTest - Chrome Providing customer details for registration..
+00:51:49.762 [main] INFO  testCases.TC001_AccountRegistrationTest - Chrome Asserting confirmation message..
+00:51:49.762 [main] ERROR testCases.TC001_AccountRegistrationTest - Test Failed
+00:51:49.762 [main] INFO  testCases.TC001_AccountRegistrationTest - ***Finished TC001_AccountRegistrationTest***
+00:51:54.035 [main] INFO  testCases.TC002_LoginTest - Running in Chrome Browser...
+00:51:55.251 [main] INFO  testCases.TC002_LoginTest - Executing url http://localhost/opencart/upload/
+00:51:55.251 [main] INFO  testCases.TC002_LoginTest - Chrome Reading properties from config.properties
+00:51:57.662 [main] INFO  testCases.TC002_LoginTest - Chrome ***Starting TC002_LoginTest***
+00:51:59.309 [main] INFO  testCases.TC002_LoginTest - Chrome Clicked for login page..
+00:52:02.089 [main] INFO  testCases.TC002_LoginTest - Chrome Clicked login button
+00:52:22.199 [main] ERROR testCases.TC002_LoginTest - ChromeException no such element: Unable to locate element: {"method":"xpath","selector":"//div[@id='content']/h2[1]"}
+  (Session info: chrome=131.0.6778.205)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.27.0', revision: 'd6e718d134'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '15.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [f27a9a7494219ba9ebed5a7b04fedcf0, findElement {using=xpath, value=//div[@id='content']/h2[1]}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 131.0.6778.205, chrome: {chromedriverVersion: 131.0.6778.264 (2d05e315153..., userDataDir: C:\Users\laksh\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:56410}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:56410/devtoo..., se:cdpVersion: 131.0.6778.205, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: f27a9a7494219ba9ebed5a7b04fedcf0
+00:53:55.649 [main] DEBUG org.testng.TestNG - suiteXmlPath: "D:\Lakshmy-SeleniumWorkSpace\MyOpenCart\test-output\testng-failed.xml"
+00:53:56.038 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\Lakshmy-SeleniumWorkSpace\MyOpenCart\test-output\testng-failed.xml
+
+00:53:59.483 [main] INFO  testCases.TC002_LoginTest - Running in Chrome Browser...
+00:54:06.966 [main] INFO  testCases.TC002_LoginTest - Executing url http://localhost/opencart/upload/
+00:54:06.966 [main] INFO  testCases.TC002_LoginTest - Chrome Reading properties from config.properties
+00:54:07.124 [main] INFO  testCases.TC002_LoginTest - Chrome ***Starting TC002_LoginTest***
+00:54:08.662 [main] INFO  testCases.TC002_LoginTest - Chrome Clicked for login page..
+00:54:12.074 [main] INFO  testCases.TC002_LoginTest - Chrome Clicked login button
+00:54:12.360 [main] INFO  testCases.TC002_LoginTest - Chrome Test Passed
+00:54:12.360 [main] INFO  testCases.TC002_LoginTest - Chrome ***Finished TC001_AccountRegistrationTest***
+00:54:15.749 [main] INFO  testCases.TC001_AccountRegistrationTest - Running in Chrome Browser...
+00:54:16.544 [main] INFO  testCases.TC001_AccountRegistrationTest - Executing url http://localhost/opencart/upload/
+00:54:16.544 [main] INFO  testCases.TC001_AccountRegistrationTest - Chrome Reading properties from config.properties
+00:54:17.149 [main] INFO  testCases.TC001_AccountRegistrationTest - Chrome ***Starting TC001_AccountRegistrationTest***
+00:54:19.002 [main] INFO  testCases.TC001_AccountRegistrationTest - Chrome Clicked registration page..
+00:54:19.011 [main] INFO  testCases.TC001_AccountRegistrationTest - Chrome Providing customer details for registration..
+00:54:23.127 [main] INFO  testCases.TC001_AccountRegistrationTest - Chrome Asserting confirmation message..
